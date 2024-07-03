@@ -1,0 +1,27 @@
+.education-list {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .education-list h2 {
+    font-size: 2rem;
+    color: #de0707;
+  }
+  
+  .education {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  .education h3 {
+    font-size: 1.5rem;
+    color: #444;
+  }
+  
+  .education p {
+    font-size: 1rem;
+    color: #300ab9;
+  }
+  
