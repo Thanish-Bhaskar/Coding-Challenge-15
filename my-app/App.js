@@ -1,5 +1,5 @@
 import React from 'react';
-import './App.css';
+import 'App.css';
 import PersonalInfo from './components/PersonalInfo';
 import Skills from './components/Skills';
 import ExperienceList from './components/ExperienceList';
